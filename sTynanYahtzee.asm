@@ -1,4 +1,4 @@
-#Seamus Tynan & Joe Rocco MIPS Yahtzee Project
+#Seamus Tynan MIPS Yahtzee Project
 	.data
 Dice: 		.byte 		0, 0, 0, 0, 0  		# Array of bytes to store in Die 1-5. Initialized to 0 for all values
 i:		.byte		0			# Array counter, initialized to 0
